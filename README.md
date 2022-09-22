@@ -7,4 +7,4 @@
 
 ## Tutorial Link
 
-[Create a Shape Key Motion Graphic with the Blender Python API](https://christianjmills.com/Create-a-Shape-Key-Motion-Graphic-With-the-Blender-Python-API/)
+[Create a Shape Key Motion Graphic with the Blender Python API](https://christianjmills.com/posts/shape-key-motion-graphic-bpy/)
